@@ -1,3 +1,5 @@
+# you will neeed to install discord webhook with pip install python-webhook
+
 from discord_webhook impoer DiscordWebhook
 
 message = "Hello There"
